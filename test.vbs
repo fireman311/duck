@@ -1,0 +1,1 @@
+MsgBox "Achtung Alle Daten werden gelöscht", VBOKOnly, "DELETE All DATA"
